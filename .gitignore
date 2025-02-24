@@ -17,3 +17,5 @@ code/.Settings
 # eide template
 *.ept
 *.eide-template
+
+.DS_Store
