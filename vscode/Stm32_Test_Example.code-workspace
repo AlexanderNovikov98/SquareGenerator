@@ -8,6 +8,9 @@
         },
         {
             "path": "../code"
+        },
+        {
+            "path": "../m"
         }
     ],
     "settings": {
@@ -92,7 +95,22 @@
             "set": "cpp",
             "iostream": "cpp",
             "istream": "cpp",
-            "sstream": "cpp"
+            "sstream": "cpp",
+            "__config": "cpp",
+            "__debug": "cpp",
+            "__threading_support": "cpp",
+            "__verbose_abort": "cpp",
+            "__bit_reference": "cpp",
+            "__errc": "cpp",
+            "__hash_table": "cpp",
+            "__locale": "cpp",
+            "__mutex_base": "cpp",
+            "__node_handle": "cpp",
+            "__split_buffer": "cpp",
+            "charconv": "cpp",
+            "complex": "cpp",
+            "ios": "cpp",
+            "locale": "cpp"
         },
         "[yaml]": {
             "editor.insertSpaces": true,
